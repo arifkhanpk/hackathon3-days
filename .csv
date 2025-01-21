@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Check the homepage loads properly,"1. Open the homepage URL.", "Homepage loads with all elements visible", "Homepage loaded with all elements visible", "Pass", "N/A"
+TC002,Verify navigation menu works,"1. Click on each menu item in the navigation.", "Menu items direct to the correct pages", "Menu items directed correctly", "Pass", "N/A"
+TC003,Check responsiveness on mobile,"1. Resize browser to mobile view or open on mobile device.", "Page layout adjusts correctly to mobile view", "Page layout adjusted correctly", "Pass", "N/A"
+TC004,Validate form submission,"1. Fill out the form with valid data. 2. Click submit.", "Form submits successfully, and user receives a confirmation", "Form submitted successfully", "Pass", "N/A"
+TC005,Check error handling for invalid form submission,"1. Fill out the form with invalid data. 2. Click submit.", "Appropriate error message displayed", "Error message displayed as expected", "Pass", "N/A"
+TC006,Test login functionality,"1. Enter valid credentials. 2. Click login.", "User is logged in and directed to the dashboard", "User logged in successfully", "Pass", "N/A"
+TC007,Check broken links,"1. Test all clickable links on the page.", "Links should redirect to the correct page or show 404", "All links worked correctly", "Pass", "N/A"
+TC008,Verify footer information,"1. Check footer for correct contact info and links.", "Footer displays correct information and working links", "Footer info is correct", "Pass", "N/A"
+TC009,Test loading speed,"1. Open the page and measure loading time.", "Page should load in under 3 seconds", "Page loaded in 2 seconds", "Pass", "N/A"
+TC010,Check accessibility features,"1. Use a screen reader to navigate the website.", "Website is accessible for visually impaired users", "Website works well with screen reader", "Pass", "N/A"
